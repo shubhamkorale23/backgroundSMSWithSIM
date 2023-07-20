@@ -11,17 +11,15 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+TODO:Send SMS By Passing SIm Slot, smsText and Destination Number can send the message in background of Application. No Need to open theDefault message app(Android).
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+TODO: Can Send SMS with Multi Sim Support.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+TODO: Call The Method and Send the SMS ( SMSSenderWithSimSlot().sendMessage(phoneNumber,message ,simSlot)).
 
 ## Usage
 
