@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* TODO: Send SMS By Passing SIm Slot and smsText.
